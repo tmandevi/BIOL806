@@ -1,0 +1,8 @@
+---
+title: "Tristan's Biography"
+---
+
+Hello!  Welcome to my website.  My name is Tristan.  I am a human born in the twentieth century on Earth.  I am not a robot.  My interests include consuming substances that fuel my body.  I call these substances food.
+
+Here's a photo of me inhabiting time and space on Earth as a human.
+![alt text](WebsitePic.PNG)
